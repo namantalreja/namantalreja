@@ -19,7 +19,7 @@
 ✍️ **Fun fact**
 - I once nearly persuaded Lewis Hamilton to send me a personalized birthday message.
 
-Feel free to connect with me!
+Feel free to connect with me at namangatech@gmail.com!
 
 # 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NAMANTALREJA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
