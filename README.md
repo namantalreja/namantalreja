@@ -17,7 +17,7 @@
 - AI and machine learning
 
 ✍️ **Fun fact**
-- I once nearly persuaded Lewis Hamilton to send me a personalized birthday message.
+- I once nearly persuaded Lewis Hamilton to send me a personalized birthday message for my best friend.
 
 Feel free to connect with me at namangatech@gmail.com!
 
