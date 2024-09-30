@@ -22,7 +22,7 @@
 Feel free to connect with me at namangatech@gmail.com! Also check out my latest creation MentorPark, A full-stack website for a new approach to a mentor-mentee portal with over 400+ prospective clients. This repository is now private to ensure client privacy as the website is about to be deployed: https://mentorpark.internpark.com/
 
 # 📊 My GitHub Stats:
-![](![namantalreja's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namantalreja&theme=dark&hide_border=true))<br/>
+(![namantalreja's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namantalreja&theme=dark&hide_border=true))<br/>
 
 
 # 💻 Tools I love Working With:
