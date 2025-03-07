@@ -1,25 +1,9 @@
 # Hi there, I'm Naman 👋
 
-🎯 **I'm currently working on**
-- MentorPark: A full-stack website for a new approach to a mentor-mentee portal with over 400+ prospective clients. This repository is now private to ensure client privacy as the website is about to be deployed.
-- Competifit: A competitive fitness app aimed at adding a competitive edge to your fitness journey.
-
-🤝 **I'm looking to collaborate on**
-- Projects that solve real-world problems, especially those involving AI, ML, or innovative tech solutions.
-  
-🌱 **I'm currently learning**
-- React
-- Langchain
-
-💬 **Ask me about**
-- Developing applications that impact the real world
-- Full-stack development
-- AI and machine learning
-
 ✍️ **Fun fact**
 - I once nearly persuaded Lewis Hamilton to send me a personalized birthday message for my best friend.
 
-Feel free to connect with me at namangatech@gmail.com! Also check out my latest creation MentorPark, A full-stack website for a new approach to a mentor-mentee portal with over 400+ prospective clients. This repository is now private to ensure client privacy as the website is about to be deployed: https://mentorpark.internpark.com/
+Feel free to connect with me at namangatech@gmail.com! Also check out my latest creation Imaginit, www.imaginit.ai, ai AI powered whiteboard style video generation model in use by over 20,000 people!
 
 # 📊 My GitHub Stats:
 ![namantalreja's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namantalreja&theme=dark&hide_border=true)<br/>
