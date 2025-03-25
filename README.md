@@ -6,7 +6,7 @@
 Feel free to connect with me at namangatech@gmail.com! Also check out my latest creation Imaginit, www.imaginit.ai, ai AI powered whiteboard style video generation model in use by over 20,000 people!
 
 # 📊 My GitHub Stats:
-![namantalreja's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namantalreja&theme=dark&hide_border=true)<br/>
+![namantalreja's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namantalreja&theme=dark&hide_border=true)
 
 
 # 💻 Tools I love Working With:
