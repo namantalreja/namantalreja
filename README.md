@@ -2,7 +2,7 @@
    <samp><br>
    Hey there, I'm Naman!
    <br>
-   I’m currently learning Go, Trading, and C++.<br>
+   I’m currently learning Go, C++, Trading, and the MCP.<br>
    I'm also simultaneouly working on developing a neural network from scratch <br> looking to contribute to open source genAI and trading communities.
    <br>
    </samp><br>
