@@ -2,8 +2,8 @@
    <samp><br>
    Hey there, I'm Naman!
    <br>
-   I’m currently learning Go, C++, Trading, and the MCP.<br>
-   I'm also simultaneouly working on developing a neural network from scratch <br> looking to contribute to open source genAI and trading communities.
+   I’m currently interning at Amazon, learning Go, C++, Trading, and the MCP.<br>
+   I'm also simultaneouly working on developing a operating system from scratch <br> looking to contribute to open source genAI, trading and systems communities.
    <br>
    </samp><br>
 <p align="center"><samp> ~
