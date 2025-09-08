@@ -2,14 +2,14 @@
    <samp><br>
    Hey there, I'm Naman!
    <br>
-   I’m currently interning at Amazon, learning Go, C++, Trading, and the MCP.<br>
+   I’m currently interning at Cartesia and learning C++, Model Optimazation, and Trading on the side.<br>
    I'm also simultaneouly working on developing a operating system from scratch <br> looking to contribute to open source genAI, trading and systems communities.
    <br>
    </samp><br>
 <p align="center"><samp> ~
    <a href="https://www.namantalreja.com">portfolio</a>
    ·
-   <a href="mailto:namangatech@gmail.com">mail</a>
+   naman [at] gatech [dot] edu
    ·
    <a href="https://www.linkedin.com/in/naman-talreja/">linkedin</a>
    ~ </samp><br><br>
