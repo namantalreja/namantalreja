@@ -2,8 +2,6 @@
    <samp><br>
    Hey there, I'm Naman!
 
-   <br>
-   I’m currently diving deep into large multimodal models, specifically quantization and optimizing them for faster inference.
    </samp><br>
 <p align="center"><samp> ~
    <a href="https://www.namantalreja.com">portfolio</a>
