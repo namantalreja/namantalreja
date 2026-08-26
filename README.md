@@ -1,8 +1,3 @@
-<p align="center">
-   <samp><br>
-   Hey there, I'm Naman!
-
-   </samp><br>
 <p align="center"><samp> ~
    <a href="https://www.namantalreja.com">portfolio</a>
    ·
